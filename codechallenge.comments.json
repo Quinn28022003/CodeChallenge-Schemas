@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "664047cb29866f2005729dae"
+  },
+  "idUser": {
+    "$oid": "662f1b2f12f807eb936379c6"
+  },
+  "idChallenge": {
+    "$oid": "663dbf5eca10a8739d5d1015"
+  },
+  "content": "giải hay quá!",
+  "heart": [],
+  "replies": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-05-12T04:38:35.898Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-12T04:38:35.898Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664047e6621d6b1e008cd6db"
+  },
+  "idUser": {
+    "$oid": "662f1b2f12f807eb936379c6"
+  },
+  "idChallenge": {
+    "$oid": "663dbf5eca10a8739d5d1015"
+  },
+  "content": "giải hay quá!",
+  "heart": [],
+  "replies": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-05-12T04:39:02.474Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-12T04:39:02.474Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664047e8621d6b1e008cd6dd"
+  },
+  "idUser": {
+    "$oid": "662f1b2f12f807eb936379c6"
+  },
+  "idChallenge": {
+    "$oid": "663dbf5eca10a8739d5d1015"
+  },
+  "content": "giải hay quá!",
+  "heart": [],
+  "replies": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-05-12T04:39:04.452Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-12T04:39:04.452Z"
+  },
+  "__v": 0
+}]

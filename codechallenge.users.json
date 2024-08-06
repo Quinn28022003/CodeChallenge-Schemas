@@ -1,0 +1,456 @@
+[{
+  "_id": {
+    "$oid": "662f1b2f12f807eb936379c6"
+  },
+  "codeChanllengeID": "Quinn28022003",
+  "firstName": "Quân",
+  "lastName": "Hoàng",
+  "email": "hahoangquan2@gmail.com",
+  "password": "$2b$10$sUOQ8FGeJNmpiLfH94XZYeyQqD2TWKq6weO2FUwO4QJgYsTMOWEXS",
+  "role": "reviewer",
+  "dateOfBirth": {
+    "$date": "2003-02-27T17:00:00.000Z"
+  },
+  "gender": "male",
+  "phoneNumber": "0941703743",
+  "technology": [
+    "reactjs",
+    "nodejs",
+    "javascript",
+    "typescript",
+    "mysql",
+    "nestjs"
+  ],
+  "socialAccounts": [
+    "facebook"
+  ],
+  "completedChallenges": [],
+  "request": [],
+  "response": [],
+  "message": [],
+  "imagePath": "uploads/avatar/1714363183446_quinn (2).jpg",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-04-29T03:59:43.455Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-06T09:20:26.203Z"
+  },
+  "__v": 0,
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2MmYxYjJmMTJmODA3ZWI5MzYzNzljNiIsImVtYWlsIjoiaGFob2FuZ3F1YW4yQGdtYWlsLmNvbSIsInJvbGUiOiJyZXZpZXdlciIsImlzTG9nZ2VkSW4iOnRydWUsImlhdCI6MTcyMjkzNjAxNSwiZXhwIjoxNzIzNTQwODE1fQ.EuoY3e_quVBlqTLFW1iTQfpFBGAwp_sD9ALkbDM5chE",
+  "description": "Thích ăn kem và đánh guitar giữa trời mưa giá rét.",
+  "address": "HT2/Lý Chính Thắng/Phường Thống Nhất/Thị Xã Buôn hồ/Tỉnh Đắk Lắk",
+  "friends": [],
+  "online": false,
+  "rating": [
+    2,
+    2,
+    5,
+    3,
+    3,
+    5,
+    4,
+    4,
+    5,
+    4,
+    5,
+    5,
+    3
+  ],
+  "notifications": [
+    {
+      "$oid": "66afb92780fb631b7413ec66"
+    },
+    {
+      "$oid": "66afb98880fb631b7413ec84"
+    },
+    {
+      "$oid": "66b0210980fb631b7413ece1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663e51366a6b00f39803b7e8"
+  },
+  "codeChanllengeID": "student12",
+  "firstName": "student",
+  "lastName": "mr",
+  "email": "student2@gmail.com",
+  "password": "$2b$10$IYM.QjC4hxok2HpB1qsHbuDHfres.LIYX9F1I0SuATqLwHKE9MUgK",
+  "role": "student",
+  "dateOfBirth": {
+    "$date": "2004-05-19T17:00:00.000Z"
+  },
+  "gender": "male",
+  "phoneNumber": "0941703642",
+  "technology": "reactjs",
+  "socialAccounts": [],
+  "completedChallenges": [],
+  "notifications": [],
+  "request": [],
+  "response": [],
+  "message": [],
+  "imagePath": "uploads/avatar/1717340779284_404_not_found.jpg",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-05-10T16:54:14.878Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T23:54:44.337Z"
+  },
+  "__v": 0,
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2M2U1MTM2NmE2YjAwZjM5ODAzYjdlOCIsImVtYWlsIjoic3R1ZGVudDJAZ21haWwuY29tIiwicm9sZSI6InN0dWRlbnQiLCJpc0xvZ2dlZEluIjp0cnVlLCJpYXQiOjE3MTg4NDEyNzEsImV4cCI6MTcxOTQ0NjA3MX0.vlKc2WWVZxfLMFnMMHws9Vh3G4dr2hb25dTyToB3lhw",
+  "friends": [],
+  "online": false,
+  "address": "Đắk Lắk",
+  "description": "Là một người vui tính",
+  "rating": []
+},
+{
+  "_id": {
+    "$oid": "663ecd0b0c9b27135c3a56c8"
+  },
+  "codeChanllengeID": "vannam5566",
+  "firstName": "nam",
+  "lastName": "van",
+  "email": "vannam3@gmail.com",
+  "password": "$2b$10$l.JVh3ufRJO1Sl0wVEN0cOD1qZSw7OumVE4rPiwZ58QkS84UOz8RK",
+  "role": "student",
+  "dateOfBirth": {
+    "$date": "2006-07-18T17:00:00.000Z"
+  },
+  "gender": "reviewer",
+  "phoneNumber": "1234567891",
+  "technology": [],
+  "socialAccounts": [],
+  "completedChallenges": [],
+  "notifications": [],
+  "request": [],
+  "response": [],
+  "message": [],
+  "imagePath": "uploads/avatar/1715391755172_backgroud.jpg",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-05-11T01:42:35.183Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-11T01:42:35.183Z"
+  },
+  "__v": 0,
+  "friends": [],
+  "online": false,
+  "rating": []
+},
+{
+  "_id": {
+    "$oid": "663ecd400c9b27135c3a56cd"
+  },
+  "codeChanllengeID": "baongoc4323",
+  "firstName": "ngoc",
+  "lastName": "bao",
+  "email": "baongoc3@gmail.com",
+  "password": "$2b$10$7rqe5rzOV.b7ZEcARRiCSu/ywvsl.Yq/Du39QrOULyRbA66/FVAsq",
+  "role": "reviewer",
+  "dateOfBirth": {
+    "$date": "1996-12-05T17:00:00.000Z"
+  },
+  "gender": "female",
+  "phoneNumber": "1234567145",
+  "technology": [],
+  "socialAccounts": [],
+  "completedChallenges": [],
+  "notifications": [
+    {
+      "$oid": "664520f1990b2fc19751f258"
+    }
+  ],
+  "request": [],
+  "response": [],
+  "message": [],
+  "imagePath": "uploads/avatar/other.jpg",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-05-11T01:43:28.159Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-15T20:54:09.074Z"
+  },
+  "__v": 0,
+  "friends": [],
+  "online": false,
+  "rating": [
+    "5",
+    "4",
+    "3"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663ecd8a0c9b27135c3a56d2"
+  },
+  "codeChanllengeID": "tranthe75",
+  "firstName": "the",
+  "lastName": "tran",
+  "email": "tranthe3@gmail.com",
+  "password": "$2b$10$uYRpHdXsYRMrtH13QWyuYeIyMJimxXy/YbSeqKz0yjGvKR1UrFmVu",
+  "role": "reviewer",
+  "dateOfBirth": {
+    "$date": "1999-08-25T17:00:00.000Z"
+  },
+  "gender": "male",
+  "phoneNumber": "86891928745",
+  "technology": [],
+  "socialAccounts": [],
+  "completedChallenges": [],
+  "notifications": [],
+  "request": [],
+  "response": [],
+  "message": [],
+  "imagePath": "uploads/avatar/1715391882654_other.jpg",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-05-11T01:44:42.664Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-11T01:44:42.664Z"
+  },
+  "__v": 0,
+  "friends": [],
+  "online": false,
+  "rating": []
+},
+{
+  "_id": {
+    "$oid": "663ecdff0c9b27135c3a56d7"
+  },
+  "codeChanllengeID": "hoangtien",
+  "firstName": "tien",
+  "lastName": "hoang",
+  "email": "tienhoang5@gmail.com",
+  "password": "$2b$10$3gMPeqSxjyooim4H6L5Kie.rarqJlCuNpneAzl6bqE.xQjb9wDkqy",
+  "role": "reviewer",
+  "dateOfBirth": {
+    "$date": "2005-08-24T17:00:00.000Z"
+  },
+  "gender": "male",
+  "phoneNumber": "1345654346",
+  "technology": [],
+  "socialAccounts": [],
+  "completedChallenges": [],
+  "notifications": [],
+  "request": [],
+  "response": [],
+  "message": [],
+  "imagePath": "uploads/avatar/1715391998996_Quinn.jpg",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-05-11T01:46:39.004Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-11T01:46:39.004Z"
+  },
+  "__v": 0,
+  "friends": [],
+  "online": false,
+  "rating": []
+},
+{
+  "_id": {
+    "$oid": "663ece4d0c9b27135c3a56dc"
+  },
+  "codeChanllengeID": "binhnguyen",
+  "firstName": "binh",
+  "lastName": "nguyen",
+  "email": "binhnguyen7@gmail.com",
+  "password": "$2b$10$NV79QjQ1UZ0CWOYm6bCEKekgzrtflrJqSV1bYxfhvwoGZ/Az3ZJmG",
+  "role": "reviewer",
+  "dateOfBirth": {
+    "$date": "1993-11-24T17:00:00.000Z"
+  },
+  "gender": "male",
+  "phoneNumber": "48893887586",
+  "technology": [],
+  "socialAccounts": [],
+  "completedChallenges": [],
+  "notifications": [],
+  "request": [],
+  "response": [],
+  "message": [],
+  "imagePath": "uploads/avatar/1715392077357_HoÃ ng QuÃ¢n.jpg",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-05-11T01:47:57.365Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-11T01:47:57.365Z"
+  },
+  "__v": 0,
+  "friends": [],
+  "online": false,
+  "rating": []
+},
+{
+  "_id": {
+    "$oid": "663ecf0c0c9b27135c3a56e1"
+  },
+  "codeChanllengeID": "nguyenkien123",
+  "firstName": "kien",
+  "lastName": "nguyen",
+  "email": "nguyenkien2@gmail.com",
+  "password": "$2b$10$/SxOvT9DPvIYZ6x3jzidwOvIjE9GnEP5rPOCYJxKWCX0gVNYgKo7u",
+  "role": "reviewer",
+  "dateOfBirth": {
+    "$date": "2003-11-26T17:00:00.000Z"
+  },
+  "gender": "male",
+  "phoneNumber": "3454675545",
+  "technology": [],
+  "socialAccounts": [],
+  "completedChallenges": [],
+  "notifications": [],
+  "request": [],
+  "response": [],
+  "message": [],
+  "imagePath": "uploads/avatar/1715392268029_404_not_found.jpg",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-05-11T01:51:08.037Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-11T01:51:08.037Z"
+  },
+  "__v": 0,
+  "friends": [],
+  "online": false,
+  "rating": []
+},
+{
+  "_id": {
+    "$oid": "6644f97ca7f167469520c3a1"
+  },
+  "codeChanllengeID": "yennhy2",
+  "firstName": "nhy",
+  "lastName": "yen",
+  "email": "yennhy2@gmail.com",
+  "password": "$2b$10$a6ej15mMpQhOpNHOlEYVsu0GAf21lD00r5kHTv/gZMbg9YZj0UtiO",
+  "role": "admin",
+  "dateOfBirth": {
+    "$date": "2005-10-19T17:00:00.000Z"
+  },
+  "gender": "female",
+  "phoneNumber": "0889941431",
+  "technology": [],
+  "socialAccounts": [
+    "facebook",
+    "github"
+  ],
+  "completedChallenges": [],
+  "request": [],
+  "response": [],
+  "message": [],
+  "imagePath": "uploads/avatar/1717343274661_female.jpg",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-05-15T18:05:48.822Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-06T09:58:20.935Z"
+  },
+  "__v": 0,
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NDRmOTdjYTdmMTY3NDY5NTIwYzNhMSIsImVtYWlsIjoieWVubmh5MkBnbWFpbC5jb20iLCJyb2xlIjoiYWRtaW4iLCJpc0xvZ2dlZEluIjp0cnVlLCJpYXQiOjE3MjI5MzgwNjEsImV4cCI6MTcyMzU0Mjg2MX0.UzheMb0PMkcRukD_rY6dkpbpaaCK8oogfavubCTFRw0",
+  "friends": [
+    {
+      "$oid": "662f1b2f12f807eb936379c6"
+    },
+    {
+      "$oid": "663ecd400c9b27135c3a56cd"
+    },
+    {
+      "$oid": "663ecf0c0c9b27135c3a56e1"
+    },
+    {
+      "$oid": "663ecd8a0c9b27135c3a56d2"
+    },
+    {
+      "$oid": "663ecdff0c9b27135c3a56d7"
+    },
+    {
+      "$oid": "663ece4d0c9b27135c3a56dc"
+    },
+    {
+      "$oid": "66522d5798078e058565f1d3"
+    }
+  ],
+  "online": true,
+  "rating": [],
+  "notifications": [
+    {
+      "$oid": "66b1f39958c983f7e0f12a56"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66522d5798078e058565f1d3"
+  },
+  "codeChanllengeID": "Quinn28022002",
+  "firstName": "quinn",
+  "lastName": "ha",
+  "email": "hahoangquan3@gmail.com",
+  "password": "$2b$10$9Irf.WQGEdrXjxPT.C3ypu52lKrh8nCayek76sCNOs5nqqQesKD9u",
+  "role": "reviewer",
+  "dateOfBirth": {
+    "$date": "2003-02-27T17:00:00.000Z"
+  },
+  "gender": "male",
+  "phoneNumber": "0941703744",
+  "technology": [],
+  "socialAccounts": [],
+  "completedChallenges": [],
+  "notifications": [
+    {
+      "$oid": "66b1f3bc58c983f7e0f12a62"
+    }
+  ],
+  "requests": [],
+  "responses": [],
+  "messages": [],
+  "imagePath": "uploads/avatar/male.jpg",
+  "friends": [
+    {
+      "$oid": "6644f97ca7f167469520c3a1"
+    },
+    {
+      "$oid": "662f1b2f12f807eb936379c6"
+    },
+    {
+      "$oid": "663ecd400c9b27135c3a56cd"
+    },
+    {
+      "$oid": "663ecf0c0c9b27135c3a56e1"
+    },
+    {
+      "$oid": "663ecd8a0c9b27135c3a56d2"
+    },
+    {
+      "$oid": "663ecdff0c9b27135c3a56d7"
+    },
+    {
+      "$oid": "663ece4d0c9b27135c3a56dc"
+    }
+  ],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-05-25T18:26:31.112Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-06T09:58:20.551Z"
+  },
+  "__v": 0,
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NTIyZDU3OTgwNzhlMDU4NTY1ZjFkMyIsImVtYWlsIjoiaGFob2FuZ3F1YW4zQGdtYWlsLmNvbSIsInJvbGUiOiJyZXZpZXdlciIsImlzTG9nZ2VkSW4iOnRydWUsImlhdCI6MTcyMjkzODEwMCwiZXhwIjoxNzIzNTQyOTAwfQ.H1F9nXo215DvZCps1eKkIyjQUl9Y90AqWpDLP1aZkiw",
+  "online": true,
+  "rating": [
+    5
+  ]
+}]

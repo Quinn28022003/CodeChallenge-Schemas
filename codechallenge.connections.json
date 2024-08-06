@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "66b1f027b59c977a4e488fe0"
+  },
+  "useruuid": "a008d051-7175-4923-be88-1233b86a5c0e",
+  "idSocketIo": "Ql6YvSbt0SEv6yQtAAAD",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-08-06T09:43:03.864Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-06T09:55:00.115Z"
+  },
+  "__v": 0,
+  "userId": {
+    "$oid": "66522d5798078e058565f1d3"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b1f3bc58c983f7e0f12a72"
+  },
+  "userId": {
+    "$oid": "6644f97ca7f167469520c3a1"
+  },
+  "useruuid": "0e4f6f8d-4204-47b8-b6a4-eb8d8307475e",
+  "idSocketIo": "nVnQlPP8OvbiqlR9AAAJ",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-08-06T09:58:20.928Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-06T09:58:20.928Z"
+  },
+  "__v": 0
+}]

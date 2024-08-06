@@ -1,0 +1,216 @@
+[{
+  "_id": {
+    "$oid": "663dbf5eca10a8739d5d1015"
+  },
+  "title": "Hai số tổng.",
+  "difficulty": "easy",
+  "topic": [
+    "Array",
+    "Hash Table"
+  ],
+  "description": "Đầu ra: 1 mảng số nguyên.\n\nCho một mảng các số nguyên và một số nguyên đích, trả về chỉ số của hai số sao cho chúng cộng lại với đích.\n\nBạn có thể giả định rằng mỗi đầu vào sẽ có chính xác một giải pháp và bạn không được sử dụng cùng một phần tử hai lần.\n\nBạn có thể trả lời câu trả lời theo bất kỳ thứ tự nào.\n\nĐầu vào: 1 mảng số nguyên và 1 số nguyên bất kỳ.",
+  "case": [
+    {
+      "inoput": "[1,6]",
+      "output": "[4,5]"
+    }
+  ],
+  "example": [
+    {
+      "input": "\"nums = [2,7,11,15], target = 9\"",
+      "output": "\t[0,1]"
+    },
+    {
+      "input": "nums = [3,2,4], target = 6",
+      "ouput": "[1,2]"
+    },
+    {
+      "input": "nums = [3,3], target = 6",
+      "ouput": "[0,1]"
+    }
+  ],
+  "restriction": [
+    "2 <= nums.length <= 104",
+    "-109 <= nums[i] <= 109",
+    "-109 <= target <= 109",
+    "Chỉ có một câu trả lời hợp lệ tồn tại."
+  ],
+  "comments": [],
+  "language": [
+    "javascript",
+    "typescript",
+    "java",
+    "pythod"
+  ],
+  "Solutions": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-05-10T06:31:58.766Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-10T06:31:58.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665b573e514fe8a12192228d"
+  },
+  "title": "Hai số tổng.",
+  "difficulty": "easy",
+  "topic": [
+    "Array",
+    "Hash Table"
+  ],
+  "description": "Đầu ra: 1 mảng số nguyên.\n\nCho một mảng các số nguyên và một số nguyên đích, trả về chỉ số của hai số sao cho chúng cộng lại với đích.\n\nBạn có thể giả định rằng mỗi đầu vào sẽ có chính xác một giải pháp và bạn không được sử dụng cùng một phần tử hai lần.\n\nBạn có thể trả lời câu trả lời theo bất kỳ thứ tự nào.\n\nĐầu vào: 1 mảng số nguyên và 1 số nguyên bất kỳ.",
+  "case": [
+    {
+      "inoput": "[1,6]",
+      "output": "[4,5]"
+    }
+  ],
+  "example": [
+    {
+      "input": "\"nums = [2,7,11,15], target = 9\"",
+      "output": "\t[0,1]"
+    },
+    {
+      "input": "nums = [3,2,4], target = 6",
+      "ouput": "[1,2]"
+    },
+    {
+      "input": "nums = [3,3], target = 6",
+      "ouput": "[0,1]"
+    }
+  ],
+  "restriction": [
+    "2 <= nums.length <= 104",
+    "-109 <= nums[i] <= 109",
+    "-109 <= target <= 109",
+    "Chỉ có một câu trả lời hợp lệ tồn tại."
+  ],
+  "comments": [],
+  "language": [
+    "javascript",
+    "typescript",
+    "java",
+    "pythod"
+  ],
+  "Solutions": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-05-10T06:31:58.766Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-10T06:31:58.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665b5741514fe8a12192228e"
+  },
+  "title": "Hai số tổng.",
+  "difficulty": "easy",
+  "topic": [
+    "Array",
+    "Hash Table"
+  ],
+  "description": "Đầu ra: 1 mảng số nguyên.\n\nCho một mảng các số nguyên và một số nguyên đích, trả về chỉ số của hai số sao cho chúng cộng lại với đích.\n\nBạn có thể giả định rằng mỗi đầu vào sẽ có chính xác một giải pháp và bạn không được sử dụng cùng một phần tử hai lần.\n\nBạn có thể trả lời câu trả lời theo bất kỳ thứ tự nào.\n\nĐầu vào: 1 mảng số nguyên và 1 số nguyên bất kỳ.",
+  "case": [
+    {
+      "inoput": "[1,6]",
+      "output": "[4,5]"
+    }
+  ],
+  "example": [
+    {
+      "input": "\"nums = [2,7,11,15], target = 9\"",
+      "output": "\t[0,1]"
+    },
+    {
+      "input": "nums = [3,2,4], target = 6",
+      "ouput": "[1,2]"
+    },
+    {
+      "input": "nums = [3,3], target = 6",
+      "ouput": "[0,1]"
+    }
+  ],
+  "restriction": [
+    "2 <= nums.length <= 104",
+    "-109 <= nums[i] <= 109",
+    "-109 <= target <= 109",
+    "Chỉ có một câu trả lời hợp lệ tồn tại."
+  ],
+  "comments": [],
+  "language": [
+    "javascript",
+    "typescript",
+    "java",
+    "pythod"
+  ],
+  "Solutions": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-05-10T06:31:58.766Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-10T06:31:58.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665b5743514fe8a12192228f"
+  },
+  "title": "Hai số tổng.",
+  "difficulty": "easy",
+  "topic": [
+    "Array",
+    "Hash Table"
+  ],
+  "description": "Đầu ra: 1 mảng số nguyên.\n\nCho một mảng các số nguyên và một số nguyên đích, trả về chỉ số của hai số sao cho chúng cộng lại với đích.\n\nBạn có thể giả định rằng mỗi đầu vào sẽ có chính xác một giải pháp và bạn không được sử dụng cùng một phần tử hai lần.\n\nBạn có thể trả lời câu trả lời theo bất kỳ thứ tự nào.\n\nĐầu vào: 1 mảng số nguyên và 1 số nguyên bất kỳ.",
+  "case": [
+    {
+      "inoput": "[1,6]",
+      "output": "[4,5]"
+    }
+  ],
+  "example": [
+    {
+      "input": "\"nums = [2,7,11,15], target = 9\"",
+      "output": "\t[0,1]"
+    },
+    {
+      "input": "nums = [3,2,4], target = 6",
+      "ouput": "[1,2]"
+    },
+    {
+      "input": "nums = [3,3], target = 6",
+      "ouput": "[0,1]"
+    }
+  ],
+  "restriction": [
+    "2 <= nums.length <= 104",
+    "-109 <= nums[i] <= 109",
+    "-109 <= target <= 109",
+    "Chỉ có một câu trả lời hợp lệ tồn tại."
+  ],
+  "comments": [],
+  "language": [
+    "javascript",
+    "typescript",
+    "java",
+    "pythod"
+  ],
+  "Solutions": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-05-10T06:31:58.766Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-10T06:31:58.766Z"
+  },
+  "__v": 0
+}]

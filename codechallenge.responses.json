@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "66b1f39958c983f7e0f12a52"
+  },
+  "sender": {
+    "$oid": "66522d5798078e058565f1d3"
+  },
+  "receiver": {
+    "$oid": "6644f97ca7f167469520c3a1"
+  },
+  "name": "Quinn",
+  "description": "em lam rất tốt",
+  "point": 99,
+  "pathFile": [
+    "uploads/response/image/1722938265501_female.jpg"
+  ],
+  "deleted": true,
+  "createdAt": {
+    "$date": "2024-08-06T09:57:45.506Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-06T09:58:20.553Z"
+  },
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2024-08-06T09:58:20.553Z"
+  }
+}]

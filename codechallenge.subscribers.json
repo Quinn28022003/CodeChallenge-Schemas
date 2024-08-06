@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "66331b581f25e9ef0e7ebc59"
+  },
+  "email": "quantieuphu2@gmail.com",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-05-02T04:49:28.644Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T04:49:28.644Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66331bcb1f25e9ef0e7ebc5c"
+  },
+  "email": "hahoangquan3@gmail.com",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-05-02T04:51:23.516Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T04:51:23.516Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6633221d1f25e9ef0e7ebc8e"
+  },
+  "email": "V9thanhdats@gmail.com",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-05-02T05:18:21.821Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T05:18:21.821Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663325c11f25e9ef0e7ebcb0"
+  },
+  "email": "hahoangquan2@gmail.com",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-05-02T05:33:53.205Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T05:33:53.205Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663327171f25e9ef0e7ebcc7"
+  },
+  "email": "hoangquan22s@gmail.com",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-05-02T05:39:35.166Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T05:39:35.166Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663328051f25e9ef0e7ebcca"
+  },
+  "email": "qưeq@gmail.com",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-05-02T05:43:33.110Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-02T05:43:33.110Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6634c1c55036d990fb9a790e"
+  },
+  "email": "hahoangquanư2ư@gmail.com",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-05-03T10:51:49.805Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-03T10:51:49.805Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665beb0b4966458bd97383e9"
+  },
+  "email": "hahoangquan23@gmail.com",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-06-02T03:46:19.746Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-02T03:46:19.746Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66736efa69efcdd8f4066598"
+  },
+  "email": "haminhdien7@gmail.com",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2024-06-19T23:51:22.929Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T23:51:22.929Z"
+  },
+  "__v": 0
+}]
